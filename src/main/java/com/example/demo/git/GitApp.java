@@ -1,0 +1,14 @@
+package com.example.demo.git;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.stereotype.Component;
+
+@Component
+public class GitApp {
+@Bean
+	public void git1()
+	{
+		System.out.println("Hello luisa.............");
+	}
+	
+}
