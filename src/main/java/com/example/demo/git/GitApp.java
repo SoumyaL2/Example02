@@ -10,6 +10,7 @@ public class GitApp {
 	String s1="Lap";
 	String s2="Lax";
 	int i=10;
+	Boolean b1=Boolean.valueOf("True");
 	
 @Bean
 	public void git1()
