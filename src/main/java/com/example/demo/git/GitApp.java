@@ -13,6 +13,7 @@ public class GitApp {
 	Boolean b1=Boolean.valueOf("True");
 	float f=687.6f;
 	String s3="Hello World";
+	String s4="Done ......";
 	
 @Bean
 	public void git1()
