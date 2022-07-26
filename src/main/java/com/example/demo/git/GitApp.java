@@ -9,6 +9,7 @@ public class GitApp {
 	
 	String s1="Lap";
 	String s2="Lax";
+	int i=10;
 	
 @Bean
 	public void git1()
